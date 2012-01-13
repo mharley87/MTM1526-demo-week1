@@ -29,9 +29,15 @@ function isNameCool () {
 
 isNameCool();
 
+var writeNameMultipleTimes = function () {
+	for (var i = 0; i < 5; i++) {
+		document.write('<strong>mike</strong><br>');
 
+};
 
+writeNameMultipleTimes ();
 
+}
 
 
 
