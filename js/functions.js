@@ -20,7 +20,7 @@ for (var i = 0; i < 5; i++) {
 function isNameCool () {
 	var name = prompt ('What is your name?');
 	
-	if (name == 'Kait') {
+	if (name == 'mike') {
 		document.write('That is an awesome name!');
 	}else{
 		document.write("I dont like your name");
